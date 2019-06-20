@@ -73,3 +73,4 @@
 
 # Ignoring configuration files
 /.vscode/
+/android/app/google-services.json
