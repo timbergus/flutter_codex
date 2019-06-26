@@ -1,4 +1,4 @@
-package com.example.flutter_codex;
+package com.timbercorp.flutter_codex;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
